@@ -1,4 +1,4 @@
-# 🫒 littleolive-restaurant-site
+# 🫒 Little-Olive-restaurant-site 🫒
 
 Responsive Restaurant Website
 

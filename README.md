@@ -13,6 +13,9 @@ The project focuses on core frontend fundamentals, including semantic HTML struc
 ---
 
 ## 📸 Screenshots
+<img width="1507" height="860" alt="Image" src="https://github.com/user-attachments/assets/c7aca650-5b7e-4d0e-9f75-1312cb907aba" />
+<img width="1508" height="862" alt="Image" src="https://github.com/user-attachments/assets/03b2f12e-b6a4-434a-838e-e467af012086" />
+<img width="334" height="733" alt="Image" src="https://github.com/user-attachments/assets/d5f81c10-bd26-43b7-bc67-06a02c8e82d4" />
 
 
 ---

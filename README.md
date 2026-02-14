@@ -29,8 +29,8 @@ The project focuses on core frontend fundamentals, including semantic HTML struc
 | Technology               | Purpose                                    |
 | ------------------------ | ------------------------------------------ |
 | **HTML5**                | Semantic structure and page layout         |
-| **CSS3**                 | Styling, layout system, and responsiveness |
-| **JavaScript (Vanilla)** | Navigation toggle and UI interactions      |
+| **CSS**                 | Styling, layout system, and responsiveness |
+| **JavaScript          ** | Navigation toggle and UI interactions      |
 | **Ionicons**             | Icon library                               |
 | **Google Fonts (Rubik)** | Typography                                 |
 

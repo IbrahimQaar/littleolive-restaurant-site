@@ -36,17 +36,27 @@ The project focuses on core frontend fundamentals, including semantic HTML struc
 
 ---  
 
-## Features
+✨ Features
 
-- Semantic and accessible HTML structure
-- Fully responsive design (desktop, tablet, mobile)
-- Custom grid-based layout system
-- Mobile navigation toggle using JavaScript
-- Smooth scrolling behavior
-- Structured gallery section
-- Testimonials section
-- Pricing layout
-- Accessible contact form
+→ Fully responsive restaurant landing experience
+
+→ Structured hero section with primary call-to-action
+
+→ “How It Works” section outlining the ordering process
+
+→ Menu showcase with featured dishes and dietary categories
+
+→ Testimonials section with customer reviews
+
+→ Image gallery presentation
+
+→ Pricing and menu breakdown section
+
+→ JavaScript-powered mobile navigation
+
+→ Smooth scrolling navigation behavior
+
+→ Structured call-to-action form
 
 ---
 
